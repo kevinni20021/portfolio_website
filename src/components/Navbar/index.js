@@ -1,25 +1,19 @@
 import React from 'react';
 import navbarpic from "./navbarpic.png";
-import { NavLink } from 'react-router-dom'
+import './Navbar.css';
 
 const Navbar = () => {
   return (
     <header>
-        <div>
+        <div className='container'>
         <img src = {navbarpic} alt ="Kevin Ni"></img>
-        <div className='Name'>
+        <div className='name'>
             Kevin Ni
         </div>
         <nav>
-            <a href = "about me">
-                About Me
-            </a>
-            <a href = "projects">
-                Projects
-            </a>
-            <a href = "contact">
-                Contact
-            </a>
+            <a href = "about me">About Me</a>
+            <a href = "projects">Projects</a>
+            <a href = "contact">Contact</a>
         </nav>
         </div>
     </header>

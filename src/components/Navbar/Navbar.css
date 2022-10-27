@@ -18,11 +18,6 @@ header {
     align-items: center;
     }
 
-img {
-    position: relative;
-    float: left;
-}
-
 .name {
     font-family: 'Hanuman';
     font-style: normal;

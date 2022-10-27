@@ -11,7 +11,7 @@ const Navbar = () => {
             Kevin Ni
         </div>
         <nav>
-            <a href = "about me">About Me</a>
+            <a href = "#about">About Me</a>
             <a href = "projects">Projects</a>
             <a href = "contact">Contact</a>
         </nav>

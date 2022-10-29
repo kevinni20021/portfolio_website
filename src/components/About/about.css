@@ -1,16 +1,18 @@
 .about-container {
     width: 95%;
-    margin-top: 10px;
+    margin-top: 50px;
     margin-left: 50px;
 }
 
 .about-image {
+    position: relative;
     float: right;
     width: 420px;
     height: auto;
     margin-right: 50px;
 }
 .about-title {
+    position: relative; 
     width: 180px;
     height: auto;
     font-family: 'Hanuman';
@@ -21,6 +23,7 @@
 }
 
 .about-p1 {
+    position: relative; 
     font-family: 'IBM Plex Serif';
     font-style: normal;
     font-weight: 400;
@@ -30,8 +33,11 @@
 }
 
 .about-p2 {
+    position: relative; 
     font-family: 'IBM Plex Serif';
     font-style: normal;
     font-weight: 400;
     font-size: 32px;
+    width: auto;
+    height: auto;
 }

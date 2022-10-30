@@ -60,17 +60,17 @@ function About() {
 
     const headerStyle3 = useSpring({
         config: { duration: 500 },
-        from: { opacity: 0, bottom: "-500px" },
+        from: { opacity: 0, bottom: "-0px" },
         to: {
             opacity: dataRef?.isIntersecting ? 1 : 0,
-            bottom: dataRef?.isIntersecting ? "0px" : "-500px"
+            bottom: dataRef?.isIntersecting ? "0px" : "0px"
         }
     });
 
     return (
       <div id = "about" className='about-container'>
           <animated.img src = {aboutpic} className='about-image' alt = 'about' ref= {triggerRef} style= {headerStyle2}></animated.img>
-          <animated.div className='about-title' style={headerStyle1} ref ={triggerRef}>
+          <animated.div className='about-title' style={headerStyle3} ref ={triggerRef}>
               About Me
           </animated.div>
           <animated.div className= 'about-p1' ref = {triggerRef} style = {headerStyle1}>

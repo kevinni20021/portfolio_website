@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio_website/static/css/main.213e7ba2.css",
+    "main.js": "/portfolio_website/static/js/main.fa618a2c.js",
+    "static/js/787.749b4a44.chunk.js": "/portfolio_website/static/js/787.749b4a44.chunk.js",
+    "static/media/website.png": "/portfolio_website/static/media/website.b48d97731cb878fd586a.png",
+    "static/media/aboutpic.png": "/portfolio_website/static/media/aboutpic.212f163c2c490f16a4a8.png",
+    "static/media/background.jpg": "/portfolio_website/static/media/background.a1ca9b27444c7d335ae1.jpg",
+    "static/media/Chess.png": "/portfolio_website/static/media/Chess.e9463b960fa44f9b9851.png",
+    "static/media/navbarpic.png": "/portfolio_website/static/media/navbarpic.3cd46b72b865f12c572e.png",
+    "static/media/ASL project.png": "/portfolio_website/static/media/ASL project.4bc2e731fff6d57dcaee.png",
+    "static/media/github.png": "/portfolio_website/static/media/github.c3ce5ff98a29df01f0d4.png",
+    "index.html": "/portfolio_website/index.html",
+    "main.213e7ba2.css.map": "/portfolio_website/static/css/main.213e7ba2.css.map",
+    "main.fa618a2c.js.map": "/portfolio_website/static/js/main.fa618a2c.js.map",
+    "787.749b4a44.chunk.js.map": "/portfolio_website/static/js/787.749b4a44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.213e7ba2.css",
+    "static/js/main.fa618a2c.js"
+  ]
+}

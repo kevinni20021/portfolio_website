@@ -1,0 +1,19 @@
+.contact-title {
+    font-family: 'Hanuman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 56px;
+    width: 150px;
+    margin: 0 auto;
+}
+
+.contact-container {
+    width: 95%;
+    margin: 50px auto;
+    text-align:center;
+}
+
+.contact-img{
+    margin: 0 20px;
+}

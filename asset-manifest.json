@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/portfolio_website/static/css/main.72e0feec.css",
-    "main.js": "/portfolio_website/static/js/main.9258c735.js",
+    "main.js": "/portfolio_website/static/js/main.b5bdfb81.js",
     "static/js/787.749b4a44.chunk.js": "/portfolio_website/static/js/787.749b4a44.chunk.js",
     "static/media/website.png": "/portfolio_website/static/media/website.b48d97731cb878fd586a.png",
     "static/media/aboutpic.png": "/portfolio_website/static/media/aboutpic.212f163c2c490f16a4a8.png",
     "static/media/PokeCardtel.png": "/portfolio_website/static/media/PokeCardtel.8d875b9342086dcab60c.png",
-    "static/media/resume.pdf": "/portfolio_website/static/media/resume.8307e47153394e2322b1.pdf",
+    "static/media/resume.pdf": "/portfolio_website/static/media/resume.acf660cdecfc199fa272.pdf",
     "static/media/Chef.png": "/portfolio_website/static/media/Chef.f4027a02127e9d9c07f3.png",
     "static/media/background.jpg": "/portfolio_website/static/media/background.a1ca9b27444c7d335ae1.jpg",
     "static/media/stonks.jpg": "/portfolio_website/static/media/stonks.c263040837dbd374ea02.jpg",
@@ -16,11 +16,11 @@
     "static/media/resume.svg": "/portfolio_website/static/media/resume.39e192b27fccdc2c8a83875ea3c63341.svg",
     "index.html": "/portfolio_website/index.html",
     "main.72e0feec.css.map": "/portfolio_website/static/css/main.72e0feec.css.map",
-    "main.9258c735.js.map": "/portfolio_website/static/js/main.9258c735.js.map",
+    "main.b5bdfb81.js.map": "/portfolio_website/static/js/main.b5bdfb81.js.map",
     "787.749b4a44.chunk.js.map": "/portfolio_website/static/js/787.749b4a44.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.72e0feec.css",
-    "static/js/main.9258c735.js"
+    "static/js/main.b5bdfb81.js"
   ]
 }

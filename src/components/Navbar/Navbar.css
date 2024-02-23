@@ -1,29 +1,32 @@
-
-
-header {
-    width: 98%;
-    margin-top: 25px;
-    margin-left: 18px;
-    margin-right: 18px;
+.navbar {
+    width: 100%;
+    position: fixed;
+    background-color: white;
+    z-index: 999;
+    top: 0px;
 }
 
 .container {
     position: relative;
     margin:0 auto;
     clear:left;
-    z-index: 0;
     flex-wrap: wrap;
     flex-direction: row; 
     display: flex;
     align-items: center;
-    }
+}
+
+.container img {
+    display: flex;
+    width: 5vw;
+}
 
 .name {
     font-family: 'Hanuman';
-    font-style: normal;
+    font-style: bold;
     font-weight: 400;
-    font-size: 48px;
-    line-height: 70px;
+    font-size: 2.5vw;
+    /* line-height: 70px; */
     margin-left: 10px;
     display: flex;
     align-items: center;
@@ -38,8 +41,7 @@ nav {
     font-style: normal;
     font-weight: 400;
     font-size: 32px;
-    line-height: 39px;
-    
+    line-height: 40px;
   }
 
 nav a {
@@ -47,4 +49,14 @@ nav a {
     margin-right: 32px;
     text-decoration: none;
     color: #000000;
+    font-size: 1.5vw;
 }
+
+/* .links {
+    font-family: 'Hanuman';
+    font-style: normal;
+    font-weight: 0;
+
+    line-height: 70px;
+    margin-left: 10px;
+} */

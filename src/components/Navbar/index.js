@@ -4,19 +4,20 @@ import './Navbar.css';
 
 const Navbar = () => {
   return (
-    <header>
+    <div className='navbar'>
         <div className='container'>
-        <img src = {navbarpic} alt ="Kevin Ni"></img>
-        <div className='name'>
-            Kevin Ni
+          <img src = {navbarpic} alt ="Kevin Ni"></img>
+          <div className='name'>
+              Kevin Ni
+          </div>
+          <nav>
+              <a href = "#about" className='links'>About Me</a>
+              {/* <a href = "#projects"className='links'>Experience</a> */}
+              <a href = "#projects"className='links'>Projects</a>
+              <a href = "#contact"className='links'>Contact</a>
+          </nav>
         </div>
-        <nav>
-            <a href = "#about">About Me</a>
-            <a href = "#projects">Projects</a>
-            <a href = "#contact">Contact</a>
-        </nav>
-        </div>
-    </header>
+    </div>
   )
 }
 

@@ -74,10 +74,10 @@ function About() {
               About Me
           </animated.div>
           <animated.div className= 'about-p1' ref = {triggerRef} style = {headerStyle1}>
-              I am a second-year student at the University of Toronto specializing in computer science, majoring in statistics and minoring in mathematics.
+              I am a third-year student at the University of Toronto specializing in computer science, majoring in statistics and minoring in mathematics.
               <br></br>
               <br></br>
-              I am a member of Google Developer Student Club @ UTM and am also an anaylst for UTM Capital Management.
+              I am the operations director for the UTM Computer Science Student Community and also an analyst for UTM capital.
           </animated.div>
           <br></br>
           <br></br> 

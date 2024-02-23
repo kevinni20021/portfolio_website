@@ -1,24 +1,24 @@
 .about-container {
-    width: 95%;
-    margin-top: 50px;
-    margin-left: 50px;
+    width: 100%;
+    margin-top: 1vw;
+    padding: 2vw;
 }
 
 .about-image {
     position: relative;
     float: right;
-    width: 420px;
+    width: 25vw;
     height: auto;
     margin-right: 50px;
 }
 .about-title {
     position: relative; 
-    width: 180px;
+    width: 100%;
     height: auto;
     font-family: 'Hanuman';
     font-style: normal;
     font-weight: 700;
-    font-size: 38px;
+    font-size: 2.5vw;
     margin-left: 25%;
 }
 
@@ -27,7 +27,7 @@
     font-family: 'IBM Plex Serif';
     font-style: normal;
     font-weight: 400;
-    font-size: 32px;
+    font-size: 1.5vw;
     width: auto;
     height: auto;
 }
@@ -37,7 +37,7 @@
     font-family: 'IBM Plex Serif';
     font-style: normal;
     font-weight: 400;
-    font-size: 32px;
+    font-size: 1.5vw;
     width: auto;
     height: auto;
 }

@@ -1,4 +1,97 @@
 .project-container {
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 3vw;
+    text-align: center;
+    position: relative;
+
+}
+
+.projects {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    position: relative;
+    flex-direction: row;
+}
+
+.project-title {
+    font-family: 'Hanuman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 2.5vw; 
+    text-align: center;
+}
+
+.project-square {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: 15vw;
+    height: 15vw;
+    padding: 10px;
+    display: flex;
+    margin-bottom: 3vw;
+}
+.project-square-container {
+    height: 15vw;
+    width: 15vw;
+    position: absolute;
+}
+.project-square img {
+    opacity: 1; 
+    backface-visibility: hidden;
+    transition: .5s ease;
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
+
+.project-txt {
+    font-family: 'Hanuman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    position: relative;
+    text-decoration: none;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    color: white;
+    
+}
+
+.mask {
+    width: 15vw;
+    height: 15vw;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: #84847c;
+    font-family: 'Hanuman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.8vw;   
+    position: absolute;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.project-square:hover .project-txt{
+    opacity: 1;
+}
+
+.project-square:hover .project-img{
+    opacity: 0.1;
+}
+
+.project-square:hover .mask{
+    opacity: 1;
+}
+/* .project-container {
     width: 97%;
     height: auto;
     margin: 0 auto;
@@ -80,4 +173,4 @@
 
 .project-square:hover .mask{
     opacity: 1;
-}
+} */

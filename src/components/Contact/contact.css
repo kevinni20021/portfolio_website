@@ -2,19 +2,26 @@
     font-family: 'Hanuman';
     font-style: normal;
     font-weight: 700;
-    font-size: 38px;
-    line-height: 56px;
-    width: 150px;
-    margin: 0 auto;
+    font-size: 2.5vw;
+    text-align: center;
 }
 
 .contact-container {
-    width: 95%;
-    margin: 50px auto;
+    width: 50%;
+    margin: 1vw auto;
     text-align:center;
     position:relative;
+
 }
 
-.contact-img{
-    margin: 0 20px;
+.contact-img img{
+    max-width: 10vw;
+    padding: 1vw;
+}
+
+.s-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
 }

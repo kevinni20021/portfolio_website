@@ -74,18 +74,18 @@ function About() {
               About Me
           </animated.div>
           <animated.div className= 'about-p1' ref = {triggerRef} style = {headerStyle1}>
-              I am a third-year student at the University of Toronto specializing in computer science, majoring in statistics and minoring in mathematics.
+              I am a fourth-year student at the University of Toronto specializing in computer science, majoring in statistics and minoring in mathematics.
               <br></br>
               <br></br>
-              I am the operations director for the UTM Computer Science Student Community and also an analyst for UTM capital.
+              Currently, I am working as a Sales and Trading intern at BofA Securities. Supporting the execution trading, derivatives sales and advisory sales.
           </animated.div>
           <br></br>
           <br></br> 
           <animated.div className = 'about-p2' ref={triggerRef} style = {headerStyle1}>
-              I love to code, travel, cook, and learn about new things in my spare time. I especially enjoy attending hackathons as I get to challenge myself and learn new skills.
+              In my spare time, I love to cook, play video games, and learn about new things. I especially enjoy attending hackathons as I get to challenge myself, learn new skills, make friends.
               <br></br>
               <br></br>
-              Whether its machine learning or web programming, I’m always willing to learn new skills and experiment with them. Feel free to reach out to me anytime.
+              I’m always willing to learn something new whether its history, finance or programming. Feel free to reach out to me anytime, I would love to have a chat with you.
           </animated.div>
       </div>
     )

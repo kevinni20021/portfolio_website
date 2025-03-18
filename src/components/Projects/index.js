@@ -35,7 +35,7 @@ function Projects() {
             <Projectbox href = "https://github.com/kevinni20021/StockThePast" img={stonkspic} name = "StockThePast: Stock Market Simulator"/>
             {/* <Projectbox href = "https://github.com/kevinni20021/Grade-12-Final-Project" img = {chesspic} name = "Chess: Grade 12 Final Project"/> */}
             <Projectbox href = "https://github.com/kevinni20021/UofT-Misc-School-Work" img={uoftpic} name = "UofT Stats and Math Assignments"/>
-            <Projectbox href = "https://github.com/douglasquan/-CSC301-Project-Order-Management" img={chefpic} name = "weBite: Food Ordering for Friends and Family (WIP)"/>
+            <Projectbox href = "https://github.com/douglasquan/-CSC301-Project-Order-Management" img={chefpic} name = "weBite: Food Ordering for Friends and Family"/>
             <Projectbox href =  "https://github.com/kevinni20021/portfolio_website" img = {websitepic} name = "This Website :)" />
         </div>
     </div>

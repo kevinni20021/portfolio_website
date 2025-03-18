@@ -12,7 +12,7 @@ function Landing() {
         Hi, my name is Kevin and I am passionate about <br></br>
         &nbsp;
         <Typewriter
-            words={['Software Engineering.', 'Machine Learning.', 'Data Science.', 'Financial Technology.', 'Computer Vision.', "Quantitative Finance."]}
+            words={['Software Engineering.', 'Machine Learning.', 'Data Science.', 'Financial Technology.', "Quantitative Finance."]}
             loop={true}
             cursors
             cursorStyle='|'
